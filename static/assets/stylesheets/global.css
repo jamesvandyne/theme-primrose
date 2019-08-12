@@ -3,3 +3,29 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 video {
 	max-width: 100%;
 }
+
+/* Custom CSS Start*/
+
+body {
+ color:#555;
+ font-family:equity-text;
+}
+
+.post--single {
+ margin:auto;
+ max-width:600px;
+ text-align:left
+}
+
+ol {
+ list-style:decimal;
+ padding-left:20px;
+ padding-bottom:15px;
+ font-size: 1.4rem;
+}
+
+body.single main {
+ margin-left:auto;
+ margin-right:auto;
+ width:600px;
+}
